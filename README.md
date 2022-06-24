@@ -16,6 +16,22 @@ The components of the deliverables are as follows;
 
 ![Screenshot 2022-06-24 102430](https://user-images.githubusercontent.com/96400887/175616448-4ab0a5d1-f587-4869-b6b5-f1cb8436c2d7.png)
 
+Using Bootstrap 3 to modify the html file
+
+The webpage is mobile-responsive
+Changed everything to col-xs, which is the smallest option. Everything will scale up from the mobile phones size to the larger desktop sizes.
+
+![Mobile_webpagr_image](https://user-images.githubusercontent.com/96400887/175617678-1cb43240-3b6d-4146-867a-168c551ea08b.png)
+
+
+Two additional Bootstrap 3 components are used to style the webpage
+
+Changed the button color to warning, which is orange to match the header color.
+Added a tooltip that says Click Me!, when the user hoovers over the Scrape button.
+Bonus: Changed the colors of various areas, adjusted some heights, and added a striped table pattern.
+
+
+
 
 
 
